@@ -4,13 +4,13 @@ HomeHealix is an AI-powered chatbot that provides **concise home remedies** for 
 Built using **Flask (Python) for the backend** and **JavaScript (Google Gemini API) for the frontend**, this chatbot helps users find quick and effective natural treatments.
  
 ## 📑 Table of Contents  
-- [🚀 Features](#features)  
-- [🛠️ Tech Stack](#tech-stack)  
-- [📜 Installation Guide](#installation-guide)  
-- [🎨 UI Preview](#ui-preview)  
-- [🤝 Contributing](#contributing)  
-- [📜 License](#license)  
-- [📱 Contact](#contact)  
+- [🚀 Features](#-features)  
+- [🛠️ Tech Stack](#-tech-stack)  
+- [📜 Installation Guide](#-installation-guide)  
+- [🎨 UI Preview](#-ui-preview)  
+- [🤝 Contributing](#-contributing)  
+- [📜 License](#-license)  
+- [📱 Contact](#-contact)  
 
 
 ## 🚀 Features
