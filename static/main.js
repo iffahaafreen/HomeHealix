@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyAvYcm9CEKlW6A-UPWTaP39G2iN_Nd5TWg";
+const API_KEY = [YOUR_GEMINI_API_KEY];
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro:generateContent?key=${API_KEY}`;
 const conv = new showdown.Converter();
 
